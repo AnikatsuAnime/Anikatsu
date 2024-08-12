@@ -3,11 +3,11 @@ xen sama welcome 🤗
 
 <p align="center">
   <div align="center">
-    <a href="https://anikatsu.me/">
-      <img src="https://anikatsu.me/files/images/logo.png?v=0.1" alt="Logo">
+    <a href="https://anikatsu.free.nf/">
+      <img src="https://anikatsu.free.nf/files/images/logo.png?v=0.1" alt="Logo">
     </a>
-    <h3>(<a href="https://zoro.to">Zoro.to</a> Clone) AniKatsu - Watch High Quality Anime Online</h3>
-    <a href="https://discord.gg/H96GCfBEPz">
+    <h3>(<a href="https://hianime.to">hianime.to</a> Clone) AniKatsu - Watch High Quality Anime Online</h3>
+    <a href="https://discord.gg/">
       <img src="https://img.shields.io/discord/1012901585896087652?label=discord&logo=discord&color=5460e6&style=flat-square&labelColor=2b2f35">
     </a>
   </div>
@@ -22,13 +22,13 @@ xen sama welcome 🤗
 
 
   <p align="center">
-    Demo <a href="https://anikatsu.me">https://anikatsu.me</a> <br>
-    This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (<a href="https://github.com/shashankktiwariii/anikatsu-api">API REPO</a>)
+    Demo <a href="https://anikatsu.free.nf">https://anikatsu.free.nf</a> <br>
+    This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (<a href="">API REPO</a>)
   </p>
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img src="https://anikatsu.me/banner.png">
+<img src="https://anikatsu.free.nf/banner.png">
 
 <hr/>
 
@@ -63,7 +63,7 @@ Deploy on any PHP Apache hosting.
 
 First download the repository using
 ```
-git clone https://github.com/shashankktiwariii/anikatsu
+git clone https://github.com/AnikatsuAnime/Anikatsu
 ```
 
 Now start the production build of the site
@@ -74,4 +74,4 @@ Start Apache Server (php environment) such as XAMPP, WAMP
 
 ## Sponsor this project
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shashankk)
+[!["Buy Me A Coffee"]()]()

@@ -3,8 +3,8 @@ xen sama welcome 🤗
 
 <p align="center">
   <div align="center">
-    <a href="https://anikatsu.free.nf/">
-      <img src="https://anikatsu.free.nf/files/images/logo.png?v=0.1" alt="Logo">
+    <a href="https://anikatsu.000.pe">
+      <img src="https://anikatsu.000.pe/files/images/logo.png?v=0.1" alt="Logo">
     </a>
     <h3>(<a href="https://hianime.to">hianime.to</a> Clone) AniKatsu - Watch High Quality Anime Online</h3>
     <a href="https://discord.gg/">
@@ -28,7 +28,7 @@ xen sama welcome 🤗
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img src="https://anikatsu.free.nf/banner.png">
+<img src="https://anikatsu.000.pe/banner.png">
 
 <hr/>
 
@@ -72,6 +72,4 @@ Start Apache Server (php environment) such as XAMPP, WAMP
 ```
 
 
-## Sponsor this project
 
-[!["Buy Me A Coffee"]()]()

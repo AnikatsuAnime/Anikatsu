@@ -22,8 +22,8 @@ xen sama welcome 🤗
 
 
   <p align="center">
-    Demo <a href="https://anikatsu.free.nf">https://anikatsu.free.nf</a> <br>
-    This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (<a href="https://github.com/KirixenYT/anime-api">API REPO</a>)
+    Demo <a href="https://anikatsu.000.pe">https://anikatsu.free.nf</a> <br>
+    This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (<a href="https://github.com/AnikatsuAnime/Anikatsu-api-2024.git">API REPO</a>)
   </p>
 </p>
 
@@ -52,7 +52,7 @@ xen sama welcome 🤗
 <br>
 --> **To Update Website Info (Website name, logo, favicon, socials url) Edit `_config.php` file**
 <br>
---> Recommended: First Clone the <a href="">API REPO</a>. Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
+--> Recommended: First Clone the <a href="https://github.com/AnikatsuAnime/Anikatsu-api-2024.git">API REPO</a>. Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
 
 
 ## Online Deployment

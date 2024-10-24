@@ -28,7 +28,7 @@ xen sama welcome 🤗
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img src="https://anikatsu.000.pe/banner.png">
+<img src="https://otakubite.rf.gd/files/images/banner.png">
 
 <hr/>
 

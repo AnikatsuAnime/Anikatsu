@@ -11,7 +11,7 @@ $version = "0.3";
 $donate = "#";
 
 // Socials 
-$telegram = "https://t.me/#"; // telegram
+$telegram = "https://t.me/otakubite"; // telegram
 $discord = "https://discord.com/#"; // Discord
 $redit = "#"; // Reddit
 $twitter = "#"; // Twitter
@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://anikatsu-api-2024.vercel.app"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://aniapi-delta.vercel.app"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner

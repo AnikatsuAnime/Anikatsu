@@ -111,7 +111,7 @@ $episodelist = $getAnime['episode_id'];
                                         </div>
                                         <!---recommended to use Anikatsu Servers only ---->
                                         <iframe name="iframe-to-load"
-                                            src="https://player.ryuk.to/index.php?id=<?=$url?>" frameborder="0"
+                                            src="/player/index.php?id=<?=$url?>" frameborder="0"
                                             scrolling="no"
                                             allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture"
                                             allowfullscreen="true" webkitallowfullscreen="true"
@@ -174,13 +174,13 @@ $episodelist = $getAnime['episode_id'];
                                             <div class="ps__-list">
                                                 <div class="item">
                                                     <a id="server1"
-                                                        href="https://player.ryuk.to/index.php?id=<?=$url?>"
+                                                        href="/player/index.php?id=<?=$url?>"
                                                         target="iframe-to-load" class="btn btn-server active">Server
                                                         1</a>
                                                 </div>
                                                 <div class="item">
                                                     <a id="server2"
-                                                        href="https://player.ryuk.to/v2.php?id=<?=$url?>"
+                                                        href="/player/index.php?id=<?=$url?>"
                                                         target="iframe-to-load" class="btn btn-server">Server 2</a>
                                                 </div>
                                             </div>

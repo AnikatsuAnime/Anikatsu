@@ -111,7 +111,7 @@ $episodelist = $getAnime['episode_id'];
                                         </div>
                                         <!---recommended to use Anikatsu Servers only ---->
                                         <iframe name="iframe-to-load"
-                                            src="/player/index.php?id=<?=$url?>" frameborder="0"
+                                            src="https://aniembed.tiiny.io/?id=<?=$url?>" frameborder="0"
                                             scrolling="no"
                                             allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture"
                                             allowfullscreen="true" webkitallowfullscreen="true"
@@ -174,13 +174,13 @@ $episodelist = $getAnime['episode_id'];
                                             <div class="ps__-list">
                                                 <div class="item">
                                                     <a id="server1"
-                                                        href="/player/index.php?id=<?=$url?>"
+                                                        href="https://aniembed.tiiny.io/?id=<?=$url?>"
                                                         target="iframe-to-load" class="btn btn-server active">Server
                                                         1</a>
                                                 </div>
                                                 <div class="item">
                                                     <a id="server2"
-                                                        href="/player/index.php?id=<?=$url?>"
+                                                        href="https://aniembed.tiiny.io/?id=<?=$url?>"
                                                         target="iframe-to-load" class="btn btn-server">Server 2</a>
                                                 </div>
                                             </div>
